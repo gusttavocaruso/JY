@@ -1,0 +1,23 @@
+{
+  "name": "jy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusttavocaruso/JY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusttavocaruso/JY/issues"
+  },
+  "homepage": "https://github.com/gusttavocaruso/JY#readme",
+  "dependencies": {
+    "next": "^13.1.4"
+  }
+}
