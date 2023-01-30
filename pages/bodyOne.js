@@ -1,7 +1,7 @@
 function FirstBody() {
   return (
     <div className="img-box">
-      <image className="img" />
+      <div className="img" />
     </div>
   );
 }

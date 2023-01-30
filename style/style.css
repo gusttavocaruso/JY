@@ -1,7 +1,7 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
-} */
+}
 
 
 .nav-bar {
@@ -10,11 +10,10 @@
   border: none;
   border-radius: 5px;
   color: white;
-  font-size: large;
   font-weight: 700;
   font-variant: normal;
   font-style: none;
-  margin: 10px 0;
+  margin: 10px;
   padding: 10px;
   text-align: center;
 }
@@ -23,7 +22,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px;
   text-decoration: none;
 }
 
@@ -34,9 +33,7 @@
 .img {
   background-image: url('../img/y.jpg');
   background-position: center;
-  background-size: cover;
   display: flex;
-  flex-direction: column;
   height: 500px;
   justify-content: center;
   margin: auto;
@@ -47,21 +44,48 @@
 
 .img-box {
   background-color: #111;
-  margin: 5%;
+  margin: 10px;
   padding: 1%;
 }
 
 .titulo-box {
   background-color: #333;
   display: flex;
+  margin: 10px;
+  padding: 5% 2%;
+  width: auto;
   border-radius: 10px;
   justify-content: center;
   color: wheat;
-  font-size: 200%;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .titulo {
-  margin: 2%;
+  width: 98%;
   text-align: center;
+  font-size: 200%;
+  font-family: cursive;
+}
+
+.body-two-box {
+  background-color:antiquewhite;
+  margin: 10px;
+  padding: 180px 60px;
+  height: max-content;
+  text-align: center;
+}
+
+.body-two-text {
+  margin: 5%;
+  font-weight: 600;
+}
+
+.body-two-list {
+  list-style: none;
+}
+
+.body-three-box {
+  background-color: brown;
+  margin: 10px;
+  padding: 90px;
+  height: max-content;
 }
